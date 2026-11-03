@@ -1,6 +1,6 @@
 {
-  "name": "eb3a-control-ios",
-  "version": "0.1.0",
+  "name": "powerhub-ios",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -11,7 +11,8 @@
   "dependencies": {
     "@capacitor/core": "^8.0.0",
     "@capacitor/ios": "^8.0.0",
-    "@capacitor-community/bluetooth-le": "^8.0.0"
+    "@capacitor-community/bluetooth-le": "^8.0.0",
+    "@devioarts/capacitor-tcpclient": "^0.2.1"
   },
   "devDependencies": {
     "@capacitor/cli": "^8.0.0",
