@@ -1,0 +1,8 @@
+{
+  "appId": "ua.xott69.eb3acontrol",
+  "appName": "EB3A Control",
+  "webDir": "dist",
+  "server": {
+    "iosScheme": "capacitor"
+  }
+}
