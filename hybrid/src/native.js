@@ -1,3 +1,4 @@
+import './powerhub.js';
 import { BleClient } from '@capacitor-community/bluetooth-le';
 import { Capacitor } from '@capacitor/core';
 
